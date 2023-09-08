@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App button {
+  border-radius: 10px;
+  font-size: 18px;
+}
+form {
+  width: 40%;
+  margin: auto;
+}
+input {
+  border-radius: 7px;
+  padding-left: 10px;
+}
